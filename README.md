@@ -79,8 +79,8 @@
 <hr/>
 
 ## Use To Code
-
-<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <h4>Languages:</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -95,9 +95,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
-<br/>
-
+  
+<h4>Version Control:</h4>
+<p>
+    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+</p>
+<h4>No Code:</h4>
+<p>
+ <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
+<img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
+</p>
+    <div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<div align="left">
 <p align="left">
   <a href="https://github.com/m-piyush-21?tab=repositories" target="_blank">
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
