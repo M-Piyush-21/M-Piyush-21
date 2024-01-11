@@ -94,7 +94,7 @@
   <h4>IDEs:</h4>
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-
+</p>
 </div>
 </p>
 <p align="left">
@@ -111,7 +111,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-  
+
 <h4>Version Control:</h4>
 <p>
     <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
@@ -121,7 +121,6 @@
  <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
  <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
  <img src="https://www.latimes.com/coupon-codes/static/shop/37687/logo/Canva_Coupon.jpg" width="50" height="50" theme="light">
-  
 </p>
     <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
