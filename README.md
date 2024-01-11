@@ -113,7 +113,9 @@
 <h4>No Code:</h4>
 <p>
  <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
-<img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
+ <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
+ <img src="https://www.latimes.com/coupon-codes/static/shop/37687/logo/Canva_Coupon.jpg" width="50" height="50" theme="light">
+  
 </p>
     <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
