@@ -74,9 +74,6 @@
 
 <!-- About Section -->
 # About me
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 <p>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   ✌️ &emsp; Enjoy doing programming <br/><br/>
