@@ -51,7 +51,7 @@ Let's Code Together: Join me on this coding adventure, and let's inspire each ot
 # About me
 <p>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  ✌️ &emsp; Enjoy doing programming and sharing knowledge<br/><br/>
+  ✌️ &emsp; Enjoy doing programming <br/><br/>
   ❤️ &emsp; Love writing code and learning new features <br/><br/>
   📧 &emsp; Reach me anytime: mahajanpi2105@gmail.com <br/><br/>
 
