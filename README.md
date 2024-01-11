@@ -2,49 +2,68 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=m-piyush-21&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!!🚀;+I+am+Mahajan+Piyush🤗;+Welcome+to+my+Profile!💻" />
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!!🚀;+I+am+Mahajan+Piyush🤗;+Welcome+to+my+Profile!💻" />
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/m-piyush-21)
 
 <!-- Intro  -->
 <h3 align="center">
-  <samp style="font-family: 'YourFontHere';">&gt; Hey There!,
-  </samp>
+  <samp style="font-family: 'YourFontHere';">&gt; Hey There! </samp>
 </h3>
 
 <p align="center"> 
-  <samp>Welcome to my coding journey! 🚀 Here, you'll find a curated collection of my best projects, mini-projects, and daily coding practice. From innovative applications to bite-sized coding exercises, this repository showcases my passion for programming and continuous learning.
-
-What's Inside:
-
-Projects: Explore my top-notch projects, each a testament to creativity and problem-solving skills.
-Mini Projects: Discover compact yet impactful projects that demonstrate versatility and coding finesse.
-Daily Practice: Peek into my coding journal with daily exercises, challenges, and solutions—because practice makes perfect.
-Why Visit:
-
-🌐 Diverse Technologies: From web development to data science, witness my exploration across various technologies.
-🚧 Work in Progress: This repository is a living document—constantly evolving with new ideas, improvements, and fresh challenges.
-🤝 Collaboration: Open to collaboration and feedback! Feel free to fork, contribute, or suggest enhancements to any project.
-Let's Code Together: Join me on this coding adventure, and let's inspire each other to write cleaner, more efficient code. Happy coding! 🖥️💻India</b> 🚀</samp>
+  <samp>Welcome to my coding journey! 🚀 Here, you'll find a curated collection of my best projects, mini-projects, and daily coding practice. From innovative applications to bite-sized coding exercises, this repository showcases my passion for programming and continuous learning.</samp>
 </p>
 
-</div>
- <br>
-    <div align="center">
+<p align="center">
+  <samp><strong>What's Inside:</strong></samp>
+</p>
+
+<p align="center">
+  <samp>Projects: Explore my top-notch projects, each a testament to creativity and problem-solving skills.</samp>
+</p>
+
+<p align="center">
+  <samp>Mini Projects: Discover compact yet impactful projects that demonstrate versatility and coding finesse.</samp>
+</p>
+
+<p align="center">
+  <samp>Daily Practice: Peek into my coding journal with daily exercises, challenges, and solutions—because practice makes perfect.</samp>
+</p>
+
+<p align="center">
+  <samp><strong>Why Visit:</strong></samp>
+</p>
+
+<p align="center">
+  <samp>🌐 Diverse Technologies: From web development to data science, witness my exploration across various technologies.</samp>
+</p>
+
+<p align="center">
+  <samp>🚧 Work in Progress: This repository is a living document—constantly evolving with new ideas, improvements, and fresh challenges.</samp>
+</p>
+
+<p align="center">
+  <samp>🤝 Collaboration: Open to collaboration and feedback! Feel free to fork, contribute, or suggest enhancements to any project.</samp>
+</p>
+
+<p align="center">
+  <samp>Let's Code Together: Join me on this coding adventure, and let's inspire each other to write cleaner, more efficient code. Happy coding! 🖥️💻India</samp>
+</p>
+
+<div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-
-
 <a href="https://www.linkedin.com/in/piyush-mahajan-51274a277/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahajan Piyush"/>
- </a>
+</a>
 
 <a href="https://www.instagram.com/m.piyush__21/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Mahajan Piyush" />
- </a>
- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+</a>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <br/>
 
 <!-- About Section -->
@@ -54,7 +73,6 @@ Let's Code Together: Join me on this coding adventure, and let's inspire each ot
   ✌️ &emsp; Enjoy doing programming <br/><br/>
   ❤️ &emsp; Love writing code and learning new features <br/><br/>
   📧 &emsp; Reach me anytime: mahajanpi2105@gmail.com <br/><br/>
-
 </p>
 
 <br/>
