@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=m-piyush-21&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-![Header Background](https://img.shields.io/badge/Header-ColorHere?style=for-the-badge)
+
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/m-piyush-21)
 
@@ -15,6 +15,10 @@
 <p align="center"> 
   <samp>👋 I am a newly joined coder from <b>India</b> 🚀</samp>
 </p>
+
+<div align="left">
+  <img src="https://i.stack.imgur.com/1dpmw.gif" height="300" width="350%">
+</div>
 
 <a href="https://www.linkedin.com/in/piyush-mahajan-51274a277/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahajan Piyush"/>
