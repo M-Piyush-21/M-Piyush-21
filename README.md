@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <samp>Let's Code Together: Join me on this coding adventure, and let's inspire each other to write cleaner, more efficient code. Happy coding! 🖥️💻India</samp>
+  <samp>Let's Code Together: Join me on this coding adventure, and let's inspire each other to write cleaner, more efficient code. Happy coding! 🖥️ India</samp>
 </p>
 
 <div align="center">
