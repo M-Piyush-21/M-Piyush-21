@@ -37,13 +37,6 @@
   <samp>Daily Practice: Peek into my coding journal with daily exercises, challenges, and solutions—because practice makes perfect.</samp>
 </p>
 
-<p align="center">
-  <samp><strong>Why Visit:</strong></samp>
-</p>
-
-<p align="center">
-  <samp>🌐 Diverse Technologies: From web development to data science, witness my exploration across various technologies.</samp>
-</p>
 
 
 <p align="center">
