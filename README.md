@@ -14,7 +14,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-  <samp style="font-family: 'YourFontHere';">&gt; Hey There! </samp>
+  <samp style="font-family: 'YourFontHere';">&gt; Hey There! </samp> 
 </h3>
 
 <p align="center"> 
