@@ -135,7 +135,7 @@
   <a href="https://github.com/M-Piyush-21">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-piyush-21&theme=radical" alt="Mahajan Piyush's GitHub Contribution"/>
   </a>
-</p>
+</p> 
 
 <a> 
   <a href="https://github.com/m-piyush-21">
