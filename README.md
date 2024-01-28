@@ -1,7 +1,7 @@
 <a href="https://komarev.com/ghpvc/?username=m-piyush-21">
   <img align="right"src="https://komarev.com/ghpvc/?username=m-piyush-21&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" /> 
 </a>    
-<div align="center">   
+<div align="center">    
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">     
 </div>     
 
