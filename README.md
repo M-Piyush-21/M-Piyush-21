@@ -1,6 +1,6 @@
 <a href="https://komarev.com/ghpvc/?username=m-piyush-21">     
     <img         align="right"src="https://komarev.com/ghpvc/?username=m-piyush-21&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />  
-      <img         align="right"src="https://dribbble.com/shots/22835660-Yeti-Animation?utm_source=Clipboard_Shot&utm_campaign=vaneltia&utm_content=Yeti%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=vaneltia&utm_content=Yeti%20Animation&utm_medium=Social_Share" alt="Profile visitor" />  
+     
   </a>           
   <div align="center">                          
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">        
