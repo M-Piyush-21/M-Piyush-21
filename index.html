@@ -1,1 +1,59 @@
+                        <span>Tailwind</span>
+                        <span>C Lang</span>
+                        <span>Figma</span>
+                        <span>HTML</span>
+                        <span>CSS</span>
+                        <span>AWS</span>
+                        <span>Next.js</span>
+                        <span>DSA</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        const observerOptions = {
+            root: null,
+            rootMargin: '0px',
+            threshold: 0.1
+        };
+
+
+        const journeyLine = document.querySelector('.journey-line');
+        let chaptersVisible = 0;
+        const totalChapters = document.querySelectorAll('.chapter').length;
+
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                    chaptersVisible++;
+
+
+                    const progress = (chaptersVisible / totalChapters) * 100;
+                    journeyLine.style.backgroundSize = `2px ${progress}%`;
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+
+        document.querySelectorAll('.chapter').forEach(chapter => {
+            observer.observe(chapter);
+        });
+
+
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
+  
  
