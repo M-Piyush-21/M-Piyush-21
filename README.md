@@ -106,11 +106,8 @@
 
 # 🌐 Connect
 
-<a href="https://www.linkedin.com/in/piyush-mahajan-51274a277/">
+<a href="https://www.linkedin.com/in/piyush-mahajan-951a1a404/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://www.instagram.com/m.piyush__21/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 <a href="mailto:mahajanpi2105@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
