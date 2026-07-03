@@ -74,13 +74,6 @@
 - Dashboard Design
 - Mobile App UI/UX
 
-### 🛒 MERN Ecommerce
-
-- Authentication
-- REST APIs
-- Admin Dashboard
-- Inventory Management
-
 ---
 
 # 💻 Tech Stack
