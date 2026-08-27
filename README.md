@@ -9,7 +9,13 @@
 
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
-  [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/m-piyush-21)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="M-Piyush-21's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+ 
 </div>
 
 <h3 align="center">Software Development Engineer • Full Stack Developer • Product Designer • AI Enthusiast</h3>
@@ -145,5 +151,7 @@
 ### 💡 *"Design. Develop. Deploy. Repeat."*
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+ [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/m-piyush-21)
 
 </div>
