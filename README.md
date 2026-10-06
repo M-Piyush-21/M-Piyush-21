@@ -1,28 +1,4 @@
 
-<div align="center">
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+%F0%9F%91%8B;+I'm+Mahajan+Piyush;+Software+Development+Engineer;+Full+Stack+Developer+(MERN);+AI+Product+Builder;+Product+Designer" alt="Typing introduction"/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg"/>
-  <img alt="Mahajan Piyush's GitHub profile" src="dark_mode.svg" width="100%"/>
-</picture>
-
-<h3>Software Development Engineer • Full Stack Developer • Product Designer • AI Enthusiast</h3>
-
-<p>Building scalable web applications, AI-powered products, modern user experiences, and enterprise solutions.</p>
-
-<a href="https://github.com/M-Piyush-21">
-  <img src="https://komarev.com/ghpvc/?username=M-Piyush-21&style=flat-square&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
@@ -41,6 +17,26 @@
 </div>
 
 ---
+<div align="center">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+%F0%9F%91%8B;+I'm+Mahajan+Piyush;+Software+Development+Engineer;+Full+Stack+Developer+(MERN);+AI+Product+Builder;+Product+Designer" alt="Typing introduction"/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg"/>
+  <img alt="Mahajan Piyush's GitHub profile" src="dark_mode.svg" width="100%"/>
+</picture>
+
+<h3>Software Development Engineer • Full Stack Developer • Product Designer • AI Enthusiast</h3>
+
+<p>Building scalable web applications, AI-powered products, modern user experiences, and enterprise solutions.</p>
+
+</div>
+
 
 # 🚀 About Me
 
