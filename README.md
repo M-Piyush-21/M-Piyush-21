@@ -1,155 +1,250 @@
 
-
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+👋;+I'm+Mahajan+Piyush;+Software+Development+Engineer;+Full+Stack+Developer+(MERN);+AI+Product+Builder;+Product+Designer"/>
-
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="M-Piyush-21's GitHub profile" src="dark_mode.svg" />
-</picture>
-
- 
-</div>
-
-<h3 align="center">Software Development Engineer • Full Stack Developer • Product Designer • AI Enthusiast</h3>
-<p align="center">Building scalable web applications, AI-powered products, modern user experiences, and enterprise solutions.</p>
-
----
-
-# 🚀 About Me
-
-<img align="right" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
-
-- 💼 Software Development Engineer with hands-on experience in enterprise software.
-- 🚀 Building scalable MERN & Next.js applications.
-- 🤖 Passionate about AI products, automation & prompt engineering.
-- 🎨 Strong background in Product Design & UI/UX.
-- 🌱 Currently learning System Design, Cloud & AI Agents.
-- 📫 **Email:** mahajanpi2105@gmail.com
-
----
-
-# 💼 Professional Experience
-
-## Software Development Engineer — Arustu Technology
-
-- Enterprise application development
-- Next.js migration
-- REST APIs
-- AI workflow architecture
-- UI/UX Design
-- MERN Stack
-
-## Tech Lead Supervisor — Arustu Technology
-
-- UrbanPiper → Rista Migration
-- Database Architecture
-- Product Lead
-- QA Lead
-- Android API Integration
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 Markzy AI
-
-- AI-powered marketing platform
-- 100+ AI tools
-- Personalized AI engine
-- Grok AI integration
-
-### 📊 North Light Analytics
-
-- Migrated legacy Python system to Next.js
-- Event Comparison
-- Event Library Analysis
-- Reporting
-
-### 🔮 AstroCall
-
-- AI Name Suggestion
-- Astrology Platform
-- Dashboard Design
-- Mobile App UI/UX
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript"/>
-</p>
-
-## Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs"/>
-</p>
-
-## Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
-</p>
-
-## Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,postman,vscode,figma"/>
-</p>
-
----
-
-# 🌐 Connect
-
-<a href="https://www.linkedin.com/in/piyush-mahajan-951a1a404/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:mahajanpi2105@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-piyush-21&show_icons=true&theme=react&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-piyush-21&layout=compact&theme=react&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-piyush-21&theme=react&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-piyush-21&theme=github_dark"/>
-</p>
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-piyush-21&theme=github-dark)
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=m-piyush-21&theme=algolia&row=2&column=4"/>
-</p>
-
----
-
-<div align="center">
-
-### 💡 *"Design. Develop. Deploy. Repeat."*
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
- [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/m-piyush-21)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+%F0%9F%91%8B;+I'm+Mahajan+Piyush;+Software+Development+Engineer;+Full+Stack+Developer+(MERN);+AI+Product+Builder;+Product+Designer" alt="Typing introduction"/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+<h3>Software Development Engineer • Full Stack Developer • Product Designer</h3>
+
+<p>
+Building scalable web applications, AI-powered products, modern user experiences, and enterprise solutions.
+</p>
+
+<a href="https://github.com/m-piyush-21">
+  <img src="https://komarev.com/ghpvc/?username=m-piyush-21&style=flat-square&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3><code>piyush@github ~ $ ./contributions.sh</code></h3>
+
+<p><b>365 days of code, creativity, and continuous learning.</b></p>
+
+<!-- Animated contribution snake: generated by GitHub Actions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-piyush-21/m-piyush-21/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-piyush-21/m-piyush-21/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/m-piyush-21/m-piyush-21/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<!-- GitHub contribution heatmap -->
+<img src="https://ghchart.rshah.org/22d3ee/m-piyush-21" width="100%" alt="GitHub contribution heatmap"/>
+
+<br/>
+<br/>
+
+<h3><code>piyush@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=m-piyush-21&show_icons=true&theme=react&hide_border=true&rank_icon=github" width="100%" alt="GitHub statistics"/>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-piyush-21&theme=react&hide_border=true" width="100%" alt="GitHub contribution streak"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-piyush-21&theme=github_dark" width="100%" alt="GitHub profile summary"/>
+
+<br/>
+<br/>
+
+<h3><code>piyush@github ~ $ ./links.sh</code></h3>
+
+<p><b>Software Development Engineer · AI Product Builder · Product Designer</b></p>
+
+<a href="https://www.linkedin.com/in/piyush-mahajan-951a1a404/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mahajanpi2105@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/m-piyush-21">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/>
+<br/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding animation"/>
+
+- 💼 Software Development Engineer with hands-on industry experience.
+- 🚀 Building scalable applications with MERN and Next.js.
+- 🤖 Interested in AI-powered products, intelligent automation, and AI agents.
+- 🎨 Passionate about product design, UI/UX, and interactive experiences.
+- ☁️ Exploring system design, cloud infrastructure, and scalable architecture.
+- 📫 **Email:** [mahajanpi2105@gmail.com](mailto:mahajanpi2105@gmail.com)
+
+<br clear="right"/>
+
+---
+
+## 💼 Professional Experience
+
+### Software Development Engineer — Arustu Technology
+
+- Developed and improved enterprise web applications.
+- Contributed to legacy application migration to Next.js.
+- Worked with REST APIs and full-stack application architecture.
+- Contributed to AI workflows and modern UI/UX implementation.
+- Built responsive interfaces using React and the MERN stack.
+
+### IT Lead Supervisor — Code n Creative
+
+- Supervise IT operations and digital product workflows.
+- Coordinate technical execution and cross-functional teams.
+- Support business systems, integrations, and process optimization.
+- Contribute to product delivery and technology improvements.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Markzy AI
+
+AI-powered marketing platform designed to help businesses create and manage marketing workflows.
+
+- 100+ AI-powered marketing tools.
+- Personalized AI engine based on business context.
+- AI integrations and intelligent content workflows.
+- MERN stack application development.
+
+### 📊 North Light Analytics
+
+Analytics platform focused on event comparison, reporting, and pricing intelligence.
+
+- Contributed to migration from a legacy Python application to Next.js.
+- Built event comparison and event library features.
+- Developed reporting and business intelligence interfaces.
+- Worked on AI-assisted insights and pricing optimization.
+
+### 🔮 AstroCall
+
+Digital astrology platform combining traditional astrology services with modern technology.
+
+- Astrology platform and dashboard development.
+- AI-assisted name suggestions.
+- Mobile app UI/UX and product interface design.
+- SEO and product experience improvements.
+
+### 🛰️ Satellite Change Detection
+
+Computer vision project exploring satellite imagery and building change detection.
+
+- Worked with the SpaceNet 7 building dataset.
+- Explored image preprocessing and geospatial labels.
+- Applied deep learning concepts for satellite image analysis.
+- Used Python and TensorFlow for model experimentation.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" alt="Programming languages"/>
+</p>
+
+### Frontend & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,figma" alt="Frontend and design tools"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend technologies"/>
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,docker,postman,vscode" alt="Development tools"/>
+</p>
+
+### AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI and machine learning tools"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/piyush-mahajan-951a1a404/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mahajanpi2105@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/m-piyush-21">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-piyush-21&layout=compact&theme=react&hide_border=true" alt="Most used languages"/>
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-piyush-21&theme=github-dark&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=m-piyush-21&theme=algolia&row=2&column=4" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3><code>piyush@github ~ $ echo "keep building"</code></h3>
+
+<h3><i>Design. Develop. Deploy. Repeat.</i></h3>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Animated divider"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding animation"/>
+
+**Thanks for visiting my profile! ⭐**
 
 </div>
