@@ -1,33 +1,43 @@
 
-name: Generate Contribution Snake
+name: Update profile art
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 6 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  heatmap:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: M-Piyush-21
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: actions/checkout@v4
 
-      - name: Publish SVG files
-        uses: peaceiris/actions-gh-pages@v4
+      - uses: actions/setup-python@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch real contribution data
+        run: python scripts/fetch_contributions.py
+        env:
+          GH_PROFILE_USER: M-Piyush-21
+
+      - name: Render animated contribution graph
+        run: python scripts/generate_streak_svg.py M-Piyush-21 contrib-heatmap.svg
+
+      - name: Render animated stats card
+        run: python scripts/render_stats_svg.py
+
+      - name: Commit updated art
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution graph [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg stats.svg"
