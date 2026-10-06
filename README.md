@@ -1,6 +1,4 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=m-piyush-21&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
