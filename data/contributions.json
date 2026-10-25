@@ -1,22 +1,22 @@
 {
   "username": "M-Piyush-21",
-  "generated_at": "2026-10-24T10:54:58Z",
+  "generated_at": "2026-10-25T11:22:21Z",
   "range": {
-    "start": "2025-10-19",
+    "start": "2025-10-26",
+    "end": "2026-10-25"
+  },
+  "total_contributions": 353,
+  "active_days": 95,
+  "avg_per_active_day": 3.7,
+  "current_streak": {
+    "length": 19,
+    "start": "2026-10-06",
     "end": "2026-10-24"
   },
-  "total_contributions": 377,
-  "active_days": 98,
-  "avg_per_active_day": 3.8,
-  "current_streak": {
-    "length": 18,
-    "start": "2026-10-06",
-    "end": "2026-10-23"
-  },
   "longest_streak": {
-    "length": 18,
+    "length": 19,
     "start": "2026-10-06",
-    "end": "2026-10-23"
+    "end": "2026-10-24"
   },
   "best_day": {
     "date": "2026-06-05",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 40
+      "total": 15
     },
     {
       "month": "2025-11",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 60
+      "total": 61
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-21",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 7,
-      "level": 2
-    },
-    {
-      "date": "2025-10-24",
-      "count": 8,
-      "level": 2
-    },
-    {
-      "date": "2025-10-25",
-      "count": 9,
-      "level": 2
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -1929,6 +1894,11 @@
     },
     {
       "date": "2026-10-24",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-25",
       "count": 0,
       "level": 0
     }
